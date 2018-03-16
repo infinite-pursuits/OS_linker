@@ -1,10 +1,10 @@
 # OS_linker
 Linker assignment </br>
+
 To Compile-
-javac oslinker.java
+javac oslinker.java</br>
 
 To Run-
-java oslinker
+java oslinker</br>
 
-Then copy and paste the input on the console.
-You might have to press enter sometimes on the console (due to the scanner).
+Then copy and paste the input on the console.</br>
